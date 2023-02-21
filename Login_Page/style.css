@@ -229,7 +229,7 @@ input {
 }
 
 .overlay {
-    background-image: url('./Login_Page/images/login.gif');
+    background-image: url('../Login_Page/images/login.gif');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 0 0;
